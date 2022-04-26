@@ -1,11 +1,6 @@
 .contacts {
   display: flex;
   align-items: center;
-
-  &__icon {
-    margin-right: 10px;
-    fill: currentColor;
-  }
 }
 
 
@@ -41,5 +36,9 @@
   }
 }
 
+.contacts__icon {
+  margin-right: 10px;
+  fill: currentColor;
+}
 
 

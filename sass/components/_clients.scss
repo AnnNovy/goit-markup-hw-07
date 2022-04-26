@@ -1,9 +1,5 @@
 .clients {
     display: flex;
-
-    .clients__icon {
-        fill: currentColor;
-    }
 }
 
 .clients__item {
@@ -36,4 +32,7 @@
     }
 }
 
+.clients__icon {
+    fill: currentColor;
+}
 

@@ -20,9 +20,8 @@
     &:focus {
         color: var(--accent-color);
     }
-    
-    &--accent {
-        color: var(--main-bg-color);
-    }
 }
 
+.adress__link--accent {
+    color: var(--main-bg-color);
+}
